@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Enuk
-- 🔭 Cursando Engenharia da Computação
-- 🌱 Estudando Python
+- 👨‍🎓 Cursando Engenharia da Computação
+- 🤓 Estudando Python
 
 
 <div align="center">
