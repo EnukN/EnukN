@@ -1,5 +1,5 @@
 ### Oi! Eu sou o Enuk
-- 👨‍🎓 Cursando Engenharia da Computação
+- 👨‍🎓 Cursando Engenharia de Software
 - 🤓 Estudando Python
 
 
